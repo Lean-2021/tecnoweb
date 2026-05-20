@@ -51,5 +51,6 @@ public class App {
 
         } while (opcionSeleccionada != 9);
 
+        sc.close();
     }
 }
